@@ -5,3 +5,4 @@
 -mencoba menyatukannya dengan Git
 -mencoba react dan tailwind 
 -mencoba slicing ui
+-menjadi web developer
