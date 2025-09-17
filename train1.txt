@@ -6,3 +6,5 @@
 -mencoba react dan tailwind 
 -mencoba slicing ui
 -menjadi web developer
+-mencoba menjadi front end 
+
