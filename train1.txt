@@ -4,3 +4,4 @@
   -dll
 -mencoba menyatukannya dengan Git
 -mencoba react dan tailwind 
+-mencoba slicing ui
